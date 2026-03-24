@@ -1,4 +1,4 @@
-<img src="213989637.jpeg" align="left" width="400" height="400" style="margin-right: 10px;border-radius:50%;"/>
+<img src="213989637.jpeg" align="left" width="400" height="400" style="margin-right: 10px;border-radius:50%; margin-bottom: 20px;"/>
 I am a 13 year old from Alabama!
 
 ## What I'm Doing ✏️
