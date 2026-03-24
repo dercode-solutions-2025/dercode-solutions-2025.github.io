@@ -50,7 +50,7 @@ Right now I'm working on:
 - Rhuse, my personal compiler/interpreter. It was a huge learning project.
 ## My GitHub Stats 💻
 <p align="center">
-  <img src="https://github-readme-stats-seven-black-76.vercel.app/api?username=dercode-solutions-2025&show_icons=true" style="height: 300px;"/>
-  <img src="https://github-readme-stats-seven-black-76.vercel.app/api/top-langs/?username=dercode-solutions-2025" style="height: 300px; width: 300px;"/>
+  <img src="https://github-readme-stats-seven-black-76.vercel.app/api?username=dercode-solutions-2025&show_icons=true"/>
+  <img src="https://github-readme-stats-seven-black-76.vercel.app/api/top-langs/?username=dercode-solutions-2025"/>
 </p>
 ## Goodbye, and have a good day! 👋
