@@ -1,4 +1,4 @@
-<img src="213989637.jpeg" align="left" width="200" height="200" style="margin-right: 10px;border-radius:50%;"/>
+<img src="213989637.jpeg" align="left" width="400" height="400" style="margin-right: 10px;border-radius:50%;"/>
 <p align="center">
   <img src="https://github-readme-stats-seven-black-76.vercel.app/api?username=dercode-solutions-2025&show_icons=true" />
   <img src="https://github-readme-stats-seven-black-76.vercel.app/api/top-langs/?username=dercode-solutions-2025"/>
