@@ -1,8 +1,4 @@
 <img src="213989637.jpeg" align="left" width="400" height="400" style="margin-right: 10px;border-radius:50%;"/>
-<p align="center">
-  <img src="https://github-readme-stats-seven-black-76.vercel.app/api?username=dercode-solutions-2025&show_icons=true" />
-  <img src="https://github-readme-stats-seven-black-76.vercel.app/api/top-langs/?username=dercode-solutions-2025"/>
-</p>
 I am a 13 year old from Alabama!
 
 ## What I'm Doing ✏️
@@ -52,4 +48,9 @@ Right now I'm working on:
 ---
 ## Highlighted Repo ⭐
 - Rhuse, my personal compiler/interpreter. It was a huge learning project.
+## My GitHub Stats 💻
+<p align="center">
+  <img src="https://github-readme-stats-seven-black-76.vercel.app/api?username=dercode-solutions-2025&show_icons=true" />
+  <img src="https://github-readme-stats-seven-black-76.vercel.app/api/top-langs/?username=dercode-solutions-2025"/>
+</p>
 ## Goodbye, and have a good day! 👋
