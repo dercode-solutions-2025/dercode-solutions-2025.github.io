@@ -11,11 +11,11 @@ fn greet(name) {
 ```
 Which gets compiled to:
 ```Lisp
-defun greet(name) start
+defun greet(name) : # [add_one_indent]
 puts ("Hello, ")
 puts name
 puts "!"
-end
+# [subtract_one_indent]
 ```
 And then finally, this:
 ``` Python
